@@ -1,6 +1,9 @@
+#include <bits/stdc++.h>
 #include <iostream>
 #include <queue>
 #include <vector>
+
+using namespace std;
 
 struct Request {
     Request(int arrival_time, int process_time):
